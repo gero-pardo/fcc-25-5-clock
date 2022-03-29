@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fcc-25-5-clock/static/css/main.9b5bcf7e.css",
-    "main.js": "/fcc-25-5-clock/static/js/main.bcfbf130.js",
+    "main.js": "/fcc-25-5-clock/static/js/main.3a4b89d2.js",
     "static/media/mixkit-appliance-ready-beep-1076.wav": "/fcc-25-5-clock/static/media/mixkit-appliance-ready-beep-1076.081fc1d591fa7c996c50.wav",
     "index.html": "/fcc-25-5-clock/index.html",
     "main.9b5bcf7e.css.map": "/fcc-25-5-clock/static/css/main.9b5bcf7e.css.map",
-    "main.bcfbf130.js.map": "/fcc-25-5-clock/static/js/main.bcfbf130.js.map"
+    "main.3a4b89d2.js.map": "/fcc-25-5-clock/static/js/main.3a4b89d2.js.map"
   },
   "entrypoints": [
     "static/css/main.9b5bcf7e.css",
-    "static/js/main.bcfbf130.js"
+    "static/js/main.3a4b89d2.js"
   ]
 }
